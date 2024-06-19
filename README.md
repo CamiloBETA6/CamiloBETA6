@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Camilo Ramirez
-- 👀 I’m interested in ....
+- 👀 I’m interested in Desarrollo de Software
 - 🌱 I’m currently learning ...
 - 
 <!---
